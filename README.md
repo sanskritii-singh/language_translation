@@ -1,6 +1,17 @@
-# langtransapp
+# language translation app
 
-A new Flutter project.
+A simple Flutter application for translating text between different languages using the Google Translator API.
+
+Features
+-Translates text between multiple languages.
+-Supports translation from and to English, Hindi, and French (can be extended easily).
+-User-friendly interface with dropdowns to select the source and target languages.
+-Displays the translated text on the screen.
+
+Project Structure
+-main.dart: Entry point of the application. It initializes the app and renders the main widget.
+-languagetrans.dart: Contains the UI and translation logic.
+-pubspec.yaml: Contains the app's dependencies and configurations.
 
 ## Getting Started
 
